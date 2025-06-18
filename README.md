@@ -6,9 +6,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ShoeR6S)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:swegmoneylife@gmail.com)
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="300"/>
-</div>
+<table>
+<tr>
+<td>
 
 - 🎓 I'm currently studying ...  
   Computer Science at ECPI University.
@@ -20,6 +20,13 @@
   Software Engineering New Grad Positions for 2025.
 - ⚡ Fun facts:  
   I love Motorsport, Movies and Music.
+
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
