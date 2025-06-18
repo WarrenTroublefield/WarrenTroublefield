@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="200"/>
-</p>
-
-<h2 align="center">😄 About Me</h2>
+## 😄 About Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/warren-troublefield-jr-51b124270">
@@ -22,28 +18,35 @@
   </a>
 </p>
 
-<br/>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  🎓 I'm currently studying ...<br/>
-  <strong>Computer Science at ECPI University.</strong><br/><br/>
+- 🎓 I'm currently studying ...  
+  Computer Science at ECPI University.
 
-  💻 I'm currently working on ...<br/>
-  <strong>My personal website and GitHub portfolio.</strong><br/><br/>
+- 💻 I'm currently working on ...  
+  My personal website and GitHub portfolio.
 
-  🌱 I'm currently learning about ...<br/>
-  <strong>Frontend development, APIs, and cloud infrastructure.</strong><br/><br/>
+- 🌱 I'm currently learning about ...  
+  Frontend development, APIs, and cloud infrastructure.
 
-  🔍 I'm currently looking for ...<br/>
-  <strong>Software Engineering New Grad Positions for 2025.</strong><br/><br/>
+- 🔍 I'm currently looking for ...  
+  Software Engineering New Grad Positions for 2025.
 
-  ⚡ Fun facts:<br/>
-  <strong>I love Motorsport, Movies and Music.</strong>
-</p>
+- ⚡ Fun facts:  
+  I love Motorsport, Movies and Music.
+
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="280"/>
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,7 +58,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WarrenTroublefield&show_icons=true&theme=radical" />
