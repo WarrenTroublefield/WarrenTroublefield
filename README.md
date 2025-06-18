@@ -29,7 +29,7 @@
 
 </td>
 <td align="center">
-  <img src="https://media.tenor.com/VaVLykVZQDoAAAAC/hamilton-baseball-bat.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="300" alt="Lewis Hamilton"/>
 </td>
 </tr>
 </table>
