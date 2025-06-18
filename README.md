@@ -1,30 +1,14 @@
-<h1 align="center">Hi, I'm Warren Troublefield 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/warren-troublefield-jr-51b124270">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/WarrenTroublefield/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/warrengotkicks/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/ShoeR6S">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
-  </a>
-  <a href="mailto:swegmoneylife@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
 ## 😄 About Me
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="250" alt="Lewis Hamilton gif"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warren-troublefield-jr-51b124270)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/WarrenTroublefield/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/warrengotkicks)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ShoeR6S)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:swegmoneylife@gmail.com)
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/WarrenTroublefield/WarrenTroublefield/main/imO3tiu-ezgif.com-video-to-gif-converter.gif" width="300"/>
+</div>
 
 - 🎓 I'm currently studying ...  
   Computer Science at ECPI University.
