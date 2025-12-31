@@ -36,7 +36,7 @@
   Frontend development, APIs, and cloud infrastructure.
 
 - 🔍 I'm currently looking for ...  
-  Software Engineering New Grad Positions for 2025.
+  SOC Analyst New Grad Positions for 2026.
 
 - ⚡ Fun facts:  
   I love Motorsport, Movies and Music.
